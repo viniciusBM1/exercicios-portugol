@@ -1,4 +1,4 @@
-Algoritmo "era-para_ser-um_relogio"
+Algoritmo "relogio"
 
 
 Var
